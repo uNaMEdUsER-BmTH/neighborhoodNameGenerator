@@ -18,3 +18,10 @@ button {
     border-radius: 3px;
     font-family: "major_mono_displayregular", monospace;
 }
+#name {
+    font-size: x-large;
+    font-weight: bolder;
+}
+#neighborhood {
+    font-size: x-large;
+}
